@@ -1,0 +1,6 @@
+@Aperta_web_app_HostAddress = http://localhost:5031
+
+GET {{Aperta_web_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
