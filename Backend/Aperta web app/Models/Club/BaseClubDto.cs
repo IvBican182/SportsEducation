@@ -36,7 +36,7 @@ namespace Aperta_web_app.Models.Club
         [Required]
         public required bool BillingInfo { get; set; }
 
-        public string StripeId { get; set; }
+      //  public string StripeId { get; set; }
 
         
     }
