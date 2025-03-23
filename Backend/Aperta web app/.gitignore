@@ -1,0 +1,12 @@
+﻿# Ignore build directories
+bin/
+obj/
+
+# Ignore appsettings files
+appsettings.json
+appsettings.Development.json
+appsettings.*.json
+
+# Ignore user-specific files
+*.user
+.vs/
